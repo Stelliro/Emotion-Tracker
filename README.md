@@ -80,7 +80,7 @@ The application allows users to input their current emotion, its intensity, and 
     *(Note: `playsound` is optional; the app will function without it from source, but custom sound reminders won't work unless the library is present and functional.)*
 5.  Run the `app_enhanced_v3.10.3_desktop_perf_optimized.py` script:
     ```bash
-    python app_enhanced_v3.10.3_desktop_perf_optimized.py
+    Emotion_Tracker.py
     ```
 
 ## Distribution:
