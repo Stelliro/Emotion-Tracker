@@ -54,7 +54,7 @@ The application allows users to input their current emotion, its intensity, and 
 
 ### For Users (Using the Executable):
 
-1.  Download the `EmotionTracker.exe` (or similarly named executable file) from the **[Releases page](https://github.com/Stelliro/Emotion-Tracker/v3.10.3)** of this repository.
+1.  Download the `EmotionTracker.exe` (or similarly named executable file) from the **[Releases page](https://github.com/Stelliro/Emotion-Tracker/tag/v3.10.3/)** of this repository.
     *(Please replace `YOUR_USERNAME/YOUR_REPOSITORY` with your actual GitHub username and repository name after you create the repository and upload a release.)*
 2.  Simply run the downloaded executable file. No installation of Python or any libraries is required.
 3.  On first run, or if not configured, the app will typically create an `Emotion_Logs` directory (or use the one you specify in settings) in the same folder as the executable (or your user's AppData, depending on how it's packaged) to store data, and an `app_settings.json` file for your preferences.
